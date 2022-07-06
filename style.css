@@ -1,0 +1,13 @@
+body > * {
+    background: bisque;
+    color: #0015f8;
+}
+a {
+    color: inherit;
+}
+img {
+    background: none;
+    color: inherit;
+    min-width: 200px;
+    max-width: 400px;
+}
